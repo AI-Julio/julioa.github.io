@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/post-2/post-2.html",
+      "/posts/post-2.html",
       "/posts/post-with-code/index.html",
       "/posts/solving-normal-equations.html",
       "/posts/welcome/index.html"
