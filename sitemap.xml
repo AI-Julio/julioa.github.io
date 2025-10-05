@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <loc>https://julioa.github.io/posts/welcome/index.html</loc>
     <lastmod>2025-10-05T01:06:19.984Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
+    <loc>https://julioa.github.io/posts/post-with-code/index.html</loc>
     <lastmod>2025-10-05T01:06:19.934Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-2/post-2.html</loc>
+    <loc>https://julioa.github.io/posts/post-2/post-2.html</loc>
     <lastmod>2025-10-05T02:36:55.518Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
+    <loc>https://julioa.github.io/about.html</loc>
     <lastmod>2025-10-05T01:06:19.853Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
+    <loc>https://julioa.github.io/index.html</loc>
     <lastmod>2025-10-05T01:06:19.869Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-2.html</loc>
+    <loc>https://julioa.github.io/posts/post-2.html</loc>
     <lastmod>2025-10-05T02:37:07.802Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/solving-normal-equations.html</loc>
+    <loc>https://julioa.github.io/posts/solving-normal-equations.html</loc>
     <lastmod>2025-10-05T01:06:19.965Z</lastmod>
   </url>
 </urlset>
