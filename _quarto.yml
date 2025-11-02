@@ -5,12 +5,12 @@ project:
 website:
   title: "dat303-blog"
   description: "A blog built with Quarto"
-  site-url: https://julioa.github.io
+  site-url: https://ai-julioa.github.io
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/julioa.github.io
+        href: https://github.com/ai-julioa.github.io
       - icon: twitter
         href: https://twitter.com
 
