@@ -10,7 +10,7 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/AI-Julio/julioa.github.io
+        href: https://github.com/julioa.github.io
       - icon: twitter
         href: https://twitter.com
 
