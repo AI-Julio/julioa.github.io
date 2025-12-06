@@ -1,0 +1,22 @@
+---
+title: "Julio's Blog"
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true       # Enable sorting UI for readers
+  filter-ui: true     # Enable filtering by categories
+page-layout: full
+title-block-banner: true
+description: "A technical blog built with Quarto and Jupyter"
+site-url: https://ai-julio.github.io/julioa.github.io
+---
+
+# Latest Posts
+
+```{listing}
+contents: posts
+sort: "date desc"
+type: default
