@@ -5,7 +5,8 @@ project:
 website:
   title: "Julio's Blog"
   description: "A blog built with Quarto"
-  site-url: https://ai-julio.github.io/julioa.github.io
+  site-url: https://ai-julio.github.io/julioa.github.io/
+  base-url: /julioa.github.io/
   navbar:
     left:
       - href: index.qmd
